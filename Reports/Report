@@ -1,0 +1,48 @@
+Student Management System in Python
+
+ 	Introduction:
+		Student Management system will keep the records of all the student especially for Std: 1st to 10th. The Management system will be made using the Python tkintergui and MySQL connector to connect with database.
+Many Management system is there to minimize the work more faster as the normal. These Software will provide the student to login, faculty to update the records of the student assigning the marks of the UT exam or other exam. Also the record of the attendance. Which will seen by both parents as well as teacher. 
+
+ 	Software and Tools:
+Python v3.9.12
+Tkinter
+MySQL database
+
+
+ 	Features: 
+There will be 4 Roles in these work
+1.	SuperAdmin:
+The superadmin will have the fixed password which can add the admin and edit anything with the database too.
+
+2.	Admin
+The admin can add the faulty or teachers for particular std he also have the access to the student database for adding the student and editing their details.
+
+
+3.	Faculty
+The faculty can edit the student attendance and the grades or the student divison only.
+
+4.	Student
+The student can login and see the results of his exam or attendance also can check the fees amount to be paid.
+
+SuperAdmin :
+1.	Login and update the admin and add the admin
+Admin:
+1.	Add the faculty
+2.	Add the student
+3.	Add the student fees details
+4.	Update the student details
+5.	Update or Add the Student Fees
+
+Faculty:
+1.	Update the student attendance.
+2.	Assign a Class teacher.
+3.	Can View the Student Details
+
+Student:
+1.	Can View his Details, attendance and fees.
+
+
+
+Thank You
+
